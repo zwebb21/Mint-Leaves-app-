@@ -1,0 +1,25 @@
+body{
+
+
+
+text-align: center;
+background: rgb(85,131,49);
+background: linear-gradient(0deg, rgba(85,131,49,1) 23%, rgba(89,218,41,1) 100%);
+height: 1130px;
+color: aliceblue;
+}
+
+
+.head2{
+
+
+color: black;
+
+}
+
+
+#svg-leaf{
+
+width: 550px;
+
+}

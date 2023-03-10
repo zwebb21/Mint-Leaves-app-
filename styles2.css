@@ -1,0 +1,89 @@
+body {
+  background-color: mediumaquamarine;
+text-align: center;
+
+}
+
+
+
+
+
+
+/* start of mid section */
+.mid {
+
+background-color: rgb(47, 134, 105) ;
+margin-top: 20%;
+border-radius: 20px;
+padding: 40px;
+width: 60%;
+margin: auto;
+
+
+}
+
+.mid-2 {
+
+  background-color: rgb(47, 134, 105) ;
+  margin-top: 80%;
+  border-radius: 20px;
+  padding: 40px;
+  width: 60%;
+  margin: auto;
+  
+  }
+
+#China {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: crimson;
+  color: aliceblue;
+  width: 440px;
+  height: 450px;
+  border-radius: 67%;
+  margin-top: 20px;
+  transition: all 0.5s ease-in-out;
+  padding: 20px;
+}
+.col-12 {
+  padding: 12px;
+  margin: auto;
+}
+
+.steam-pot {
+  margin: auto;
+}
+
+#China h1 {
+  margin-top: 120px;
+}
+
+#China :hover {
+  background-color: #cf2626;
+  color: rgb(255, 166, 0);
+  transform: scale(0.95);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
+}
+
+
+
+
+/* End of mid section */
+
+.hover-button {
+  background-color: rgb(9, 102, 13);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  width: 330px;
+  border-radius: 22px;
+  margin-top: 50px;
+}
+
+.hover-button:hover {
+  background-color: red;
+}
